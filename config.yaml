@@ -1,0 +1,9 @@
+{
+  'Database' : {
+  'username' : 'root',
+  'pwd' : 'root',
+  'host' : 'mysql',
+  'port' : '3306',
+  'db' : 'tournage_paris'
+  }
+}
