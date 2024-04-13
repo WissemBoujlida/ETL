@@ -13,10 +13,10 @@ Python, SQLAlchemy, Pandas, Dash, Plotly, MySQL, Docker
 
 # Running the application
 
-Step 1: Simply change directory to `app` directory in the `project directory`.
+Step 1: Simply change directory to the `project directory`.
 
 ```Shell
-cd path_to_project_directory/app
+cd path_to_project_directory
 ```
 
 Step 2: Build the app image
